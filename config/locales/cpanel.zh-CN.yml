@@ -6,7 +6,7 @@
       users: "用户"
       sections: "分类"
       nodes: "节点"
-      wiki: "维基"
+      wiki: "教程"
       topics: "帖子"
       replies: "回复"
       photos: "图片"
@@ -23,6 +23,6 @@
       please_do_not_modify_key: "请勿修改 key"
       edit_setting: "修改设置"
     users:
-      trust_user_can_modify_wiki: "信任用户将可以修改 Wiki"
+      trust_user_can_modify_wiki: "信任用户将可以修改教程"
     topic_list: "话题列表"
     check_photo: "浏览图片"

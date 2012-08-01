@@ -6,7 +6,7 @@
       users: "Users"
       sections: "Sections"
       nodes: "Nodes"
-      wiki: "Wiki"
+      wiki: "Lesson"
       topics: "Topics"
       replies: "Replies"
       photos: "Photos"
@@ -23,6 +23,6 @@
       please_do_not_modify_key: "Please do not modify key"
       edit_setting: "Edit Settings"
     users:
-      trust_user_can_modify_wiki: "Allow user to modify Wiki"
+      trust_user_can_modify_wiki: "Allow user to modify Lesson"
     topic_list: "Topic List"
     check_photo: "View Photo"

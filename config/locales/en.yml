@@ -7,7 +7,7 @@
       user: "User"
       topic: "Topic"
       post: "Post"
-      page: "Wiki"
+      page: "lesson"
     attributes:
       user:
         name: "Name"

@@ -41,7 +41,7 @@
     you_may_like: "你可能也喜歡"
     read: "閱讀"
     admin_user: "管理員"
-    wiki_admin: "維基管理"
+    wiki_admin: "教程管理"
     normal_user: "普通使用者"
     limit_user: "受限會員"
     title: "標題"
@@ -72,7 +72,7 @@
     create: "提交應用"
   menu:
     topics: "社區"
-    wiki: "維基"
+    wiki: "教程"
     users: "會員"
     cpanel: "後台"
     notes: "記事本"

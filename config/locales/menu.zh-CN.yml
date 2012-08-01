@@ -41,7 +41,7 @@
     you_may_like: "你可能也喜欢"
     read: "阅读"
     admin_user: "管理員"
-    wiki_admin: "维基管理"
+    wiki_admin: "教程管理"
     normal_user: "普通用户"
     limit_user: "受限会员"
     title: "标题"
@@ -74,7 +74,7 @@
     create: 提交应用
   menu:
     topics: "社区"
-    wiki: "维基"
+    wiki: "教程"
     users: "会员"
     cpanel: "后台"
     notes: "记事本"
@@ -107,7 +107,7 @@
     before_topic_html: "话题正文前面的 HTML"
     after_topic_html: "话题后面的 HTML"
     footer_html: "页脚 HTML"
-    wiki_index_html: "维基首页 HTMl"
+    wiki_index_html: "教程首页 HTMl"
     index_html: "网站首页 HTML"
     tips: "随机显示的小贴士（一行一个）"
     ban_words_on_reply: "回帖禁止内容（一行一个）"

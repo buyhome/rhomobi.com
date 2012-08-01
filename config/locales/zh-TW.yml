@@ -4,7 +4,7 @@
       user: "使用者"
       topic: "話題"
       post: 文章
-      page: 維基
+      page: 教程
     attributes:
       user:
         name: "名字"

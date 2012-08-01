@@ -41,7 +41,7 @@
     you_may_like: "You may also like"
     read: "read"
     admin_user: "Admin"
-    wiki_admin: "Wiki Admin"
+    wiki_admin: "Lesson Admin"
     normal_user: "Normal User"
     limit_user: "Restricted User"
     title: "Title"
@@ -70,7 +70,7 @@
     create: Submit a App
   menu:
     topics: "Discussion"
-    wiki: "Wiki"
+    wiki: "Lesson"
     users: "Users"
     cpanel: "Control Panel"
     notes: "Notes"
