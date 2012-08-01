@@ -1,0 +1,35 @@
+defaults: &defaults
+  app_name: "Rhomobile"
+  foot_html: "&copy; Rhomobi.com"
+  domain: "127.0.0.1:3000"
+  admin_emails:
+    - "pai6@qq.com"
+  google_analytics_key: ""
+  upload_url: "http://rhomobile.b0.upaiyun.com"
+  upyun_username: "rhomobi_dev"
+  upyun_password: "b6x7p611"
+  upyun_bucket: "rhomobile"
+  google_group_email: "shanghaionrails@googlegroups.com"
+  email_sender: 'no-reply@rhomobi.com'
+  aws_access_key_id: ''
+  aws_secret_access_key: ''
+  twitter_token: "uJ9fBa53SmqrHBqs1qq5cg"
+  twitter_secret: "b9e9hbsa9sYYCqmW0kTyfALshclmkQX4kzTm8BBBTw"
+  github_token: "54855b01c23f1b1223fd"
+  github_secret: "4b2fc3f595baf85199be41312ac6ac91db1cbd25"
+  douban_token: "04fab3198986e6350ef0194c9c94b29f"
+  douban_secret: "5c08eac53cfa1890"
+  google_js_api_key: "ABQIAAAAC-ble-vmy_g7-Qvem5P86xTX2XchcwgyHzp4Xo0DHRAzt2aLjhQnflwIyCJBOWYCE_rFuUkE0qEmhw"
+  external_feed_url: "http://ruby-china.org/topics/feed"
+  external_feed_name: "Ruby China Group"
+  twitter_id: "ruby_china"
+  gravatar_proxy: "http://rhomobi.com"
+
+development:
+  <<: *defaults
+
+test:
+  <<: *defaults
+
+production:
+  <<: *defaults
