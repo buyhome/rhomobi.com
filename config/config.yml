@@ -23,7 +23,7 @@ defaults: &defaults
   external_feed_url: "http://ruby-china.org/topics/feed"
   external_feed_name: "Ruby China Group"
   twitter_id: "ruby_china"
-  gravatar_proxy: "http://rhomobi.com"
+  gravatar_proxy: "http://ruby-china.org"
 
 development:
   <<: *defaults
