@@ -4,7 +4,7 @@ defaults: &defaults
   domain: "127.0.0.1:3000"
   admin_emails:
     - "pai6@qq.com"
-  google_analytics_key: ""
+  google_analytics_key: "UA-33885764-1"
   upload_url: "http://rhomobile.b0.upaiyun.com"
   upyun_username: "rhomobi_dev"
   upyun_password: "b6x7p611"
