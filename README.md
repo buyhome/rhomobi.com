@@ -69,7 +69,8 @@ cp config/thin.yml.default config/thin.yml
 bundle install
 bundle exec rake db:migrate
 bundle exec rake db:seed
-bundle exec sidekiq -c config/sidekiq.yml
+//bundle exec sidekiq -c config/sidekiq.yml
+nohup bundle exec sidekiq -c config/sidekiq.yml> log/sidekiq.log &
 bundle exec rake sunspot:solr:start
 bundle exec rake assets:precompile
 rails server thin -d
